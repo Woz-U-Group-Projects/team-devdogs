@@ -1,0 +1,14 @@
+C:\Users\AmmonKing\Desktop\team-devdogs\bin\Debug\netcoreapp2.2\MoviePop.deps.json
+C:\Users\AmmonKing\Desktop\team-devdogs\bin\Debug\netcoreapp2.2\MoviePop.runtimeconfig.json
+C:\Users\AmmonKing\Desktop\team-devdogs\bin\Debug\netcoreapp2.2\MoviePop.runtimeconfig.dev.json
+C:\Users\AmmonKing\Desktop\team-devdogs\bin\Debug\netcoreapp2.2\MoviePop.dll
+C:\Users\AmmonKing\Desktop\team-devdogs\bin\Debug\netcoreapp2.2\MoviePop.pdb
+C:\Users\AmmonKing\Desktop\team-devdogs\obj\Debug\netcoreapp2.2\MoviePop.csprojAssemblyReference.cache
+C:\Users\AmmonKing\Desktop\team-devdogs\obj\Debug\netcoreapp2.2\MoviePop.csproj.CoreCompileInputs.cache
+C:\Users\AmmonKing\Desktop\team-devdogs\obj\Debug\netcoreapp2.2\MoviePop.RazorAssemblyInfo.cache
+C:\Users\AmmonKing\Desktop\team-devdogs\obj\Debug\netcoreapp2.2\MoviePop.RazorAssemblyInfo.cs
+C:\Users\AmmonKing\Desktop\team-devdogs\obj\Debug\netcoreapp2.2\MoviePop.AssemblyInfoInputs.cache
+C:\Users\AmmonKing\Desktop\team-devdogs\obj\Debug\netcoreapp2.2\MoviePop.AssemblyInfo.cs
+C:\Users\AmmonKing\Desktop\team-devdogs\obj\Debug\netcoreapp2.2\MoviePop.RazorTargetAssemblyInfo.cache
+C:\Users\AmmonKing\Desktop\team-devdogs\obj\Debug\netcoreapp2.2\MoviePop.dll
+C:\Users\AmmonKing\Desktop\team-devdogs\obj\Debug\netcoreapp2.2\MoviePop.pdb
