@@ -30,6 +30,7 @@
         "@schematics/angular:service": {
           "spec": false
         }
+
       },
       "architect": {
         "build": {
