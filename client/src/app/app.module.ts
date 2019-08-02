@@ -9,7 +9,7 @@ import { HomeComponent } from "./home/home.component";
 import { NavComponent } from "./nav/nav.component";
 import { AboutComponent } from "./about/about.component";
 import { ContactComponent } from "./contact/contact.component";
-
+import { AddMovieComponent } from "./addMovie/addMovie.component";
 @NgModule({
   declarations: [
     AppComponent,
@@ -17,7 +17,8 @@ import { ContactComponent } from "./contact/contact.component";
     HomeComponent,
     NavComponent,
     AboutComponent,
-    ContactComponent
+    ContactComponent,
+    AddMovieComponent
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule, HttpClientModule],
   providers: [],
