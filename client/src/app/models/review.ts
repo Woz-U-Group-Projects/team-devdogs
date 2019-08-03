@@ -2,7 +2,7 @@ export class Review {
     reviewID: number;
     movieReview: string;
     movieID: number;
-    userLoginID: number;
+    userID: number;
     ratingID: number;
     commentsID: number;
 }
