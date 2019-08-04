@@ -1,0 +1,10 @@
+.addmovie {
+    border-color: #4CAF50;
+    color: green;
+  }
+  
+  .addmovie:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
