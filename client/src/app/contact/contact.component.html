@@ -1,1 +1,20 @@
-<p>contact works!</p>
+<div>
+    <label for="FirstName">First Name: </label>
+    <input type="text" placeholder="" name="firstname" required [(ngModel)]="model.firstName">
+</div>
+<div>
+    <label for="LastName">Director: </label>
+    <input type="text" placeholder="LastName" name="lastName" email required [(ngModel)]="model.lastName">
+</div>
+<div>
+    <label for="email">E-Mail: </label>
+    <input type="text" placeholder="email" name="email" required [(ngModel)]="model.email">
+</div>
+<div>
+    <label for="comment">Comment: </label>
+    <input type="text" placeholder="comment" name="comment" required [(ngModel)]="model.comment">
+</div>
+<div>
+    <button type="submit" (click)="onSubmit()">Submit</button>
+</div>
+
