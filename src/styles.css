@@ -8,12 +8,20 @@ body, html {
 body {
     font-family: 'Montserrat';
     font-size: 18px;
+
+    
 }
+
 
 a {
     text-decoration: none;
     color: white;
 }
+
+body {
+    background-color: #5252d4;
+}
+
 
 .container {
     width: 80%;
