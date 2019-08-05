@@ -9,14 +9,15 @@ import { ReviewService } from '../review.service';
 })
 export class ReviewComponent implements OnInit {
 
-  model: Review[] = [];  
+    
 
   constructor(private reviewService: ReviewService) { }
 
+  reviews: Review[] = [];
+
   ngOnInit() {
-    this.reviewService.getReviews().subscribe(Review =>{ 
-      return this.model = Review}
-    );
+    this.reviewService.getReviews().subscribe(reviews => (this.reviews = reviews))
+    ;
   }
 
 }
