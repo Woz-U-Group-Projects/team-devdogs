@@ -7,6 +7,7 @@ import { Movie } from '../models/movie';
   templateUrl: './movies.component.html',
   styleUrls: ['./movies.component.css']
 })
+
 export class MoviesComponent implements OnInit {
 
   constructor(private movieService: MovieService) {}
@@ -21,4 +22,7 @@ export class MoviesComponent implements OnInit {
     this.getMovies();
   }
 }
+
+
+
 

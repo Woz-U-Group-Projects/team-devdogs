@@ -4,6 +4,7 @@ import { HomeComponent } from './home/home.component';
 import { MoviesComponent } from './movies/movies.component';
 import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
+import { AddMovieComponent } from '../app/addMovie/addMovie.component';
 
 
 const routes: Routes = [
@@ -11,7 +12,8 @@ const routes: Routes = [
   { path: 'movies', component: MoviesComponent },
   { path: 'about', component: AboutComponent },
   { path: 'contact', component: ContactComponent },
-];
+  {path:  'add', component: AddMovieComponent}];
+
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

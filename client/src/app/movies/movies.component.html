@@ -1,9 +1,9 @@
 <div>
-  <button class="addMovieBtn">Add Movie</button>
+  <button class="addMovieBtn" [routerLink]="['/add']">Add A New Movie</button>
 </div>
 <ul>
     <ul>
-      <li *ngFor="let movie of movies">{{ movie.title }}</li>
+      <li *ngFor="let movie of movies">{{ movie.title }}{{movie.movieID}}</li>
     </ul>
 </ul>
 
