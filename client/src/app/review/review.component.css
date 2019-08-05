@@ -1,4 +1,4 @@
-  .addMovieBtn {
+.addReviewBtn {
     background-color: #08972b;
     border: none;
     color: white;
@@ -10,4 +10,4 @@
     transition: 0.3s;
   }
   
-  .addMovieBtn:hover {opacity: 1}
+  .addReviewBtn:hover {opacity: 1}

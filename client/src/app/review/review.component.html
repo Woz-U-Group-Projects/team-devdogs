@@ -1,0 +1,9 @@
+
+<div>
+    <button class="addReviewBtn" [routerLink]="['/addReview']">Add A New Review</button>
+  </div>
+<ul>
+    <ul>
+      <li *ngFor="let review of reviews">{{ review.movieReview }}</li>
+    </ul>
+  </ul>

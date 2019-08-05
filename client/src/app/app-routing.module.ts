@@ -5,6 +5,8 @@ import { MoviesComponent } from './movies/movies.component';
 import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 import { AddMovieComponent } from '../app/addMovie/addMovie.component';
+import { AddReviewComponent } from '../app/add-review/add-review.component';
+import { ReviewComponent } from '../app/review/review.component';
 
 
 const routes: Routes = [
@@ -12,7 +14,10 @@ const routes: Routes = [
   { path: 'movies', component: MoviesComponent },
   { path: 'about', component: AboutComponent },
   { path: 'contact', component: ContactComponent },
-  {path:  'add', component: AddMovieComponent}];
+  {path:  'add', component: AddMovieComponent},
+  {path: 'addReview', component: AddReviewComponent},
+  {path: 'review', component: ReviewComponent}
+];
 
 
 @NgModule({
