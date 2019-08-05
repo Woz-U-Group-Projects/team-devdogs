@@ -25,7 +25,6 @@ namespace MoviePop.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 optionsBuilder.UseSqlite("Data Source=moviePOP.db");
             }
         }
@@ -53,7 +52,7 @@ namespace MoviePop.Models
                 entity.HasIndex(e => e.movieID)
                     .IsUnique();
 
-                entity.Property(e => e.movieID).ValueGeneratedNever();
+                entity.Property(e => e.movieID).ValueGeneratedOnAdd();
 
                 entity.Property(e => e.title).IsRequired();
             });
@@ -73,7 +72,7 @@ namespace MoviePop.Models
                 entity.HasIndex(e => e.reviewsID)
                     .IsUnique();
 
-                entity.Property(e => e.reviewsID).ValueGeneratedNever();
+                entity.Property(e => e.reviewsID).ValueGeneratedOnAdd();
 
                 entity.Property(e => e.movieReview).IsRequired();
 

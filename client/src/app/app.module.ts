@@ -10,6 +10,9 @@ import { NavComponent } from "./nav/nav.component";
 import { AboutComponent } from "./about/about.component";
 import { ContactComponent } from "./contact/contact.component";
 import { AddMovieComponent } from "./addMovie/addMovie.component";
+import { AddReviewComponent } from './add-review/add-review.component';
+import { ReviewComponent } from './review/review.component';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,7 +21,9 @@ import { AddMovieComponent } from "./addMovie/addMovie.component";
     NavComponent,
     AboutComponent,
     ContactComponent,
-    AddMovieComponent
+    AddMovieComponent,
+    AddReviewComponent,
+    ReviewComponent
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule, HttpClientModule],
   providers: [],
