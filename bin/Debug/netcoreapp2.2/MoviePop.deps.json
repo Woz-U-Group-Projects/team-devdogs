@@ -2,6 +2,7 @@
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
     "signature": "8192cd6d6df2343cba0819b79dadcabafbae1732"
+   
   },
   "compilationOptions": {
     "defines": [
@@ -2393,6 +2394,12 @@
         },
         "compile": {
           "ref/netstandard2.0/Microsoft.Win32.Registry.dll": {}
+        },
+        "compileOnly": true
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.2.0"
         },
         "compileOnly": true
       },
