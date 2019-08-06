@@ -1,12 +1,13 @@
 import { Component, OnInit } from '@angular/core';
-import { MovieService } from "../movie.service";
-import { Movie } from "../models/movie";
+import { MovieService } from '../movie.service';
+import { Movie } from '../models/movie';
 
 @Component({
   selector: 'app-movies',
   templateUrl: './movies.component.html',
   styleUrls: ['./movies.component.css']
 })
+
 export class MoviesComponent implements OnInit {
 
   constructor(private movieService: MovieService) {}
@@ -21,3 +22,7 @@ export class MoviesComponent implements OnInit {
     this.getMovies();
   }
 }
+
+
+
+

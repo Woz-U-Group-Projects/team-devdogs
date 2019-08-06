@@ -10,7 +10,7 @@ import { MovieService } from '../movie.service';
 })
 export class AddMovieComponent implements OnInit {
 
-    model: Movie= new Movie();
+    model: Movie = new Movie();
 
   constructor(private movieService: MovieService ) { }
 
