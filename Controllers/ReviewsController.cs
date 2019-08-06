@@ -9,21 +9,21 @@ namespace MoviePop.Controllers
 {
   [Route("api/[controller]")]
   [ApiController]
-  public class MoviesController : ControllerBase
+  public class ReviewsController : ControllerBase
   {
 
     private readonly MovieDbContext _context;
 
-    public MoviesController(MovieDbContext context)
+    public ReviewsController(MovieDbContext context)
     {
       _context = context;
     }
 
     // GET api/values
     [HttpGet]
-    public ActionResult<IEnumerable<movies>> Get()
+    public ActionResult<IEnumerable<reviews>> Get()
     {
-      return _context.movies;
+      return _context.reviews;
     }
 
     // GET api/values/5
@@ -35,9 +35,9 @@ namespace MoviePop.Controllers
 
     // POST api/values
     [HttpPost]
-    public void Post([FromBody] movies value)
+    public void Post([FromBody] reviews value)
     {
-      _context.movies.Add(value);
+      _context.reviews.Add(value);
       _context.SaveChanges();
     }
 

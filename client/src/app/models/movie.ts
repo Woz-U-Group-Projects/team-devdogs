@@ -3,7 +3,7 @@ export class Movie {
     title: string;
     director: string;
     starring: string;
-    rating: number;
+    mpaaRating: string;
     releaseDate: string;
     genre: string;
     
