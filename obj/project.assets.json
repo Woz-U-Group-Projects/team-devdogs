@@ -7867,7 +7867,7 @@
       ]
     },
     "SQLitePCLRaw.bundle_green/1.1.12": {
-      "sha512": "xbscpnvFQy5JNqcNC5djEVJMANSWuZ/SYFG8eCDLZ81e6lMaBuBPfi5dsm8bnCFmYlealei3eDha+/StW7a8og==",
+      "sha512": "U5lZv+E0JBCG5uQngaRgyIAlbzIwRczb0m46XJfLGXovtfVOaMNRY/oGyKAJjdexVrfqLRd+JyopGMySpAZRGQ==",
       "type": "package",
       "path": "sqlitepclraw.bundle_green/1.1.12",
       "files": [
@@ -7914,7 +7914,7 @@
       ]
     },
     "SQLitePCLRaw.core/1.1.12": {
-      "sha512": "B43HNCk0NmwLgHEqLSRdcsYKFJeqnv8+XWLXl/g2ZrP7htmlPi2JpurZvqnYyVsBsRpaQfLPxhMBo8Na/29mIw==",
+      "sha512": "S4hr+tE275ran5jyKFW/FYPG6Bz6nsHUp9H8chqKxzk21PxJadLd9LnvLe6LMRP/IqY5+LOIIDQF3m/2iDlZ7Q==",
       "type": "package",
       "path": "sqlitepclraw.core/1.1.12",
       "files": [
@@ -7940,7 +7940,7 @@
       ]
     },
     "SQLitePCLRaw.lib.e_sqlite3.linux/1.1.12": {
-      "sha512": "c/SFtlLETx3LYsj/IRFvvaf0ji0IwrXVz3aTLlcH5S/cRW/TCcgVVJssUIgLv8hsmS2iZZy139hbLU/x2eysLA==",
+      "sha512": "Tn/YE1VxWtHa4MQ9KC//ptIw6cLAUh+xXSdpX7MyGINmb4/igqyx0IOEq5WeH/+cuI/EnDtdWAOn98eMQnKsTQ==",
       "type": "package",
       "path": "sqlitepclraw.lib.e_sqlite3.linux/1.1.12",
       "files": [
@@ -7962,7 +7962,7 @@
       ]
     },
     "SQLitePCLRaw.lib.e_sqlite3.osx/1.1.12": {
-      "sha512": "imLE78LaSu0jdg1p+b8irnMlpMNmAtZ0heXN5Zj2KpF53H8hIVlKnQC1gf9UKxrLvLiGPteaoil80vtDhNWKuA==",
+      "sha512": "qfl1ljn6NOQDyM2i9JDZc6xekHoC+Fqe4GzuhWFCS6siI7lLInw09HHSZRqyimV36vjdQYnyBBFKSn53rSOYkA==",
       "type": "package",
       "path": "sqlitepclraw.lib.e_sqlite3.osx/1.1.12",
       "files": [
@@ -7980,7 +7980,7 @@
       ]
     },
     "SQLitePCLRaw.lib.e_sqlite3.v110_xp/1.1.12": {
-      "sha512": "diHgQFQWktc58Ekptk8/hOe7E336M4rU/HMVKLY2QcKWLKK8X3eKYvURYuRBdRcwIDL6p4TCkihEyelj9rAp+w==",
+      "sha512": "YfmaVhcEyAGU6BZ7NQiYYfCHKsCYjldwsafiFKArzqeM8MHuhfqft1Fjdv7ncukXrvKsHXhCrzJzKEMwPXiSSg==",
       "type": "package",
       "path": "sqlitepclraw.lib.e_sqlite3.v110_xp/1.1.12",
       "files": [
@@ -7998,7 +7998,7 @@
       ]
     },
     "SQLitePCLRaw.provider.e_sqlite3.netstandard11/1.1.12": {
-      "sha512": "GQzL515Ar3BvV2Yx7fXnkszB1j9rKWSWtvXWmq6/ZJ8ueWgLWWF+DbwA2Ux0JobXyhSvVqSmajrck1vhA2cxXw==",
+      "sha512": "qjz6Ad1Q5hiI8imCiG5Mpa/w8E8+rAk3SRJdX54uEOo5nPywiN1H0jmMZO+ID0nPibQA3yjlAHt5/GcLW9Iftg==",
       "type": "package",
       "path": "sqlitepclraw.provider.e_sqlite3.netstandard11/1.1.12",
       "files": [
@@ -12417,23 +12417,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AmmonKing\\.nuget\\packages\\": {},
+    "C:\\Users\\tracy\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AmmonKing\\Desktop\\team-devdogs\\MoviePop.csproj",
+      "projectUniqueName": "C:\\Users\\tracy\\Documents\\DevDogs\\team-devdogs\\MoviePop.csproj",
       "projectName": "MoviePop",
-      "projectPath": "C:\\Users\\AmmonKing\\Desktop\\team-devdogs\\MoviePop.csproj",
-      "packagesPath": "C:\\Users\\AmmonKing\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AmmonKing\\Desktop\\team-devdogs\\obj\\",
+      "projectPath": "C:\\Users\\tracy\\Documents\\DevDogs\\team-devdogs\\MoviePop.csproj",
+      "packagesPath": "C:\\Users\\tracy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tracy\\Documents\\DevDogs\\team-devdogs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\AmmonKing\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\tracy\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
