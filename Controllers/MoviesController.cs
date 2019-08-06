@@ -35,8 +35,10 @@ namespace MoviePop.Controllers
 
     // POST api/values
     [HttpPost]
-    public void Post([FromBody] string value)
+    public void Post([FromBody] movies value)
     {
+      _context.movies.Add(value);
+      _context.SaveChanges();
     }
 
     // PUT api/values/5

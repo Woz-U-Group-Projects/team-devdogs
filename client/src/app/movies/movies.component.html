@@ -1,1 +1,11 @@
-<p>movies works!</p>
+<div>
+  <button class="addMovieBtn" [routerLink]="['/add']">Add A New Movie</button>
+</div>
+<br>
+<ul>
+    <ul>
+      <li *ngFor="let movie of movies">{{ movie.title }}</li>
+    </ul>
+</ul>
+
+

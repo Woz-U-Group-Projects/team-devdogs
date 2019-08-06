@@ -1,0 +1,30 @@
+
+    <div>
+        <label for="title">Title: </label>
+        <input type="text" placeholder="Title" name="title" required [(ngModel)]="model.title">
+    </div>
+    <div>
+        <label for="director">Director: </label>
+        <input type="text" placeholder="Director" name="director" email required [(ngModel)]="model.director">
+    </div>
+    <div>
+        <label for="starring">Starring: </label>
+        <input type="text" placeholder="Starring" name="starring" required [(ngModel)]="model.starring">
+    </div>
+    <div>
+        <label for="releaseDate">Released: </label>
+        <input type="integer" placeholder="Released" name="releaseDate" required [(ngModel)]="model.releaseDate">
+    </div>
+    <div>
+        <label for="genre">Genre: </label>
+        <input type="text" placeholder="Genre" name="genre" required [(ngModel)]="model.genre">
+    </div>
+    <div>
+        <label for="mpaaRating">MPAA Rating: </label>
+        <input type="text" placeholder="Rating" name="mpaaRating" required [(ngModel)]="model.mpaaRating">
+    </div>
+
+    <div>
+        <button class="submit" type="submit" (click)="onSubmit()">Add Movie</button>
+    </div>
+
