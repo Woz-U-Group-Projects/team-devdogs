@@ -11,12 +11,14 @@ import { Movie } from '../models/movie';
 export class MoviesComponent implements OnInit {
 
   constructor(private movieService: MovieService) {}
-  
+
   movies: Movie[] = [];
 
   ngOnInit() {
     this.movieService.getMovies().subscribe(movies => (this.movies = movies));
   }
+
+
 }
 
 

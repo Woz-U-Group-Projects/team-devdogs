@@ -1,0 +1,14 @@
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\bin\MCD\Debug\netcoreapp2.2\MoviePop.deps.json
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\bin\MCD\Debug\netcoreapp2.2\MoviePop.runtimeconfig.json
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\bin\MCD\Debug\netcoreapp2.2\MoviePop.runtimeconfig.dev.json
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\bin\MCD\Debug\netcoreapp2.2\MoviePop.dll
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\bin\MCD\Debug\netcoreapp2.2\MoviePop.pdb
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\obj\MCD\Debug\netcoreapp2.2\MoviePop.csprojAssemblyReference.cache
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\obj\MCD\Debug\netcoreapp2.2\MoviePop.csproj.CoreCompileInputs.cache
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\obj\MCD\Debug\netcoreapp2.2\MoviePop.RazorAssemblyInfo.cache
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\obj\MCD\Debug\netcoreapp2.2\MoviePop.RazorAssemblyInfo.cs
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\obj\MCD\Debug\netcoreapp2.2\MoviePop.AssemblyInfoInputs.cache
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\obj\MCD\Debug\netcoreapp2.2\MoviePop.AssemblyInfo.cs
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\obj\MCD\Debug\netcoreapp2.2\MoviePop.RazorTargetAssemblyInfo.cache
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\obj\MCD\Debug\netcoreapp2.2\MoviePop.dll
+C:\Users\Skanyavong\Documents\WozU\GroupProject\team-devdogs\obj\MCD\Debug\netcoreapp2.2\MoviePop.pdb
