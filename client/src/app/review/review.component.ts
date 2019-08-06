@@ -9,7 +9,6 @@ import { ReviewService } from '../review.service';
 })
 export class ReviewComponent implements OnInit {
 
-    
 
   constructor(private reviewService: ReviewService) { }
 
