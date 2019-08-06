@@ -12414,30 +12414,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Skanyavong\\.nuget\\packages\\": {},
+    "C:\\Users\\AgnorBook\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skanyavong\\Documents\\WozU\\GroupProject\\team-devdogs\\MoviePop.csproj",
+      "projectUniqueName": "C:\\Users\\AgnorBook\\Desktop\\TeamDevDogs_2\\team-devdogs-production\\MoviePop.csproj",
       "projectName": "MoviePop",
-      "projectPath": "C:\\Users\\Skanyavong\\Documents\\WozU\\GroupProject\\team-devdogs\\MoviePop.csproj",
-      "packagesPath": "C:\\Users\\Skanyavong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skanyavong\\Documents\\WozU\\GroupProject\\team-devdogs\\obj\\",
+      "projectPath": "C:\\Users\\AgnorBook\\Desktop\\TeamDevDogs_2\\team-devdogs-production\\MoviePop.csproj",
+      "packagesPath": "C:\\Users\\AgnorBook\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AgnorBook\\Desktop\\TeamDevDogs_2\\team-devdogs-production\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Skanyavong\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\AgnorBook\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
